@@ -1,45 +1,59 @@
 # Hey there! 👋 I'm a Vibe Coder from Brunei 🇧🇳
 
-> **20+ years in tech** → **AI-powered development obsession** → **Building the future, one experiment at a time**
+> **20+ years in tech** → **AI-powered development** → **Building the future, one experiment at a time**
 
-## What's Vibe Coding? 🎯
+---
 
-I practice **AI-powered intuitive development** - combining decades of tech experience with cutting-edge AI models to build projects that feel right, work well, and push boundaries. Every repository here represents experiments in human-AI collaboration, where proven problem-solving meets bleeding-edge innovation.
+## 🎯 What's Vibe Coding?
 
-**My approach**: Conception → AI-assisted development → deployed MVP → iterate or fork into something even cooler.
+I practice **AI-powered intuitive development** — blending decades of experience with cutting-edge models to create projects that *work beautifully* and *push boundaries*.  
+Every repository here is an experiment in human-AI collaboration, where proven problem-solving meets bleeding-edge innovation.
 
-## The Journey 🛤️
+**My approach:** 💡 Idea → 🤖 AI-assisted build → 🚀 MVP launch → ♻️ Iterate or evolve into something even cooler
 
-- **Tech veteran** diving deep into AI-powered development
-- **Based in Brunei Darussalam** 🏝️
-- **Philosophy**: Adapt and innovate - stay ahead of the curve through hands-on exploration
-- **Method**: Learning by building progressively complex projects with AI as my development team
+---
+
+## 🛤️ The Journey
+
+- 🌐 **Tech veteran** exploring the frontiers of AI-powered development  
+- 🏝️ **Based in Brunei Darussalam**  
+- 🧭 **Philosophy:** Adapt and innovate through hands-on exploration  
+- 🛠️ **Method:** Build progressively complex projects with AI as my development team
+
+---
 
 ## Current Vibe Stack 🧰
 
 ### **AI Models & Tools**
-![ChatGPT](https://img.shields.io/badge/ChatGPT-4o%20%7C%204.1%20%7C%20o3-00A67E?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-Sonnet%203.5%20%7C%203.7%20%7C%204%20%7C%20Opus%204-FF6B35?style=flat&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-2.5%20Flash%20%7C%20Pro-4285F4?style=flat&logo=google&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-V3-000000?style=flat&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen3-235B%20A22B-FF6B6B?style=flat&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-GPT%E2%80%915%20%7C%20GPT%E2%80%915%20Thinking-00A67E?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Opus%204.1%20%7C%20Sonnet%204-FF6B35?style=flat)
+![Gemini](https://img.shields.io/badge/Gemini-2.5%20Pro%20%7C%202.5%20Flash-4285F4?style=flat&logo=google&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-R1%E2%80%930528%20%7C%20V3-000000?style=flat)
+![Qwen](https://img.shields.io/badge/Qwen-Qwen3-FF6B6B?style=flat)
+
+### **Local Models**
+![Gemma 2](https://img.shields.io/badge/Gemma%202-2B-607D8B?style=flat&logoColor=white)
+![Ministral 3B](https://img.shields.io/badge/Ministral-3B%20q4_K_M-673AB7?style=flat&logoColor=white)
+![Llama 3.2](https://img.shields.io/badge/Llama%203.2-3B%20Instruct%20q4_K_M-4E342E?style=flat&logoColor=white)
+![Mistral 7B](https://img.shields.io/badge/Mistral-7B%20Instruct%20q4_K_M-9C27B0?style=flat&logoColor=white)
+![Llama 3](https://img.shields.io/badge/Llama%203-8B%20Instruct%20q4_K_M-795548?style=flat&logoColor=white)
 
 ### **Development Environment**
-![Cursor](https://img.shields.io/badge/Cursor-IDE-000000?style=flat&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-IDE-0078D4?style=flat&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-Roo%20%7C%20Cline-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=github&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-FF4B4B?style=flat&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-Roo%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Continue](https://img.shields.io/badge/Continue-IDE%20Agent-8E44AD?style=flat&logoColor=white)
+![ChatGPT Codex CLI](https://img.shields.io/badge/ChatGPT-Codex%20CLI-00A67E?style=flat&logo=openai&logoColor=white)
 
 ### **Current Tech Stack**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=flat&logo=discord&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 ### **Deployment & Hosting**
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
@@ -47,39 +61,27 @@ I practice **AI-powered intuitive development** - combining decades of tech expe
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
-## What I'm Building 🚀
+---
 
-**Current Focus**: Conversational AI & Discord Bots - Building complex multi-service platforms with enterprise-grade features
+## 🧠 My AI Interests
 
-**Recent Releases**: 2 public chatbots, 1 complex Discord bot platform in active development
-
-**The Progression**: 
-- 🤖 **Advanced Bot Platforms** - Multi-service architectures with security, concurrency, and scalability ✨ *Current*
-- 🌐 **Enterprise Web Applications** - Full-stack platforms with real-time collaboration
-- 🎮 **Interactive Experiences** - Games and immersive applications
-- 🔬 **AI Development Frameworks** - Tools for AI-assisted development workflows
-
-**The Process**: Each project pushes the boundaries of what's possible when human creativity meets AI capability. **Language-agnostic approach** - I use whatever the project needs and whatever I haven't tried before. Currently deep in Python, Discord.py, and enterprise architecture patterns, but always ready to explore new stacks.
-
-## My AI Interests 🧠
-
-- **Prompt Engineering**: Perfecting human-AI communication
-- **Model Experimentation**: Always testing the latest releases
-- **Development Workflows**: Optimizing AI-assisted coding practices
-- **Future-Proofing**: Building skills for the AI-native development era
-
-## Let's Connect! 🤝
-
-I'm passionate about:
-- 🔬 **Experimenting** with new AI models and development patterns
-- 🚀 **Pushing** the boundaries of AI-assisted development
-- 🤝 **Collaborating** with fellow builders and AI enthusiasts
-- 📚 **Sharing** discoveries and learning from the community
-
-**Open to**: Collaborations, interesting projects, consulting opportunities, and conversations about where AI development is heading!
+- 📝 **Prompt Engineering** – Perfecting human-AI communication  
+- 🧪 **Model Experimentation** – Testing and evaluating the latest releases  
+- ⚙️ **Development Workflows** – Optimizing AI-assisted coding practices  
+- 🛡️ **Future-Proofing** – Building skills for the AI-native development era  
 
 ---
 
-*"Make it so."* - Picard ✨
+## 🤝 Let's Connect!
 
-📧 Ready to explore what we can create together with AI as our development superpower!
+I'm passionate about:  
+- 🔬 **Experimenting** with new AI models and development patterns  
+- 🚀 **Pushing** the boundaries of AI-assisted development  
+- 🤝 **Collaborating** with fellow builders and AI enthusiasts  
+- 📚 **Sharing** discoveries and learning from the community  
+
+**Open to:** Collaborations, interesting projects, consulting opportunities, and conversations about where AI development is heading!
+
+---
+
+*"Make it so."* – Picard ✨
