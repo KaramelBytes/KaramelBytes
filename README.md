@@ -32,11 +32,11 @@ Every repository here is an experiment in human-AI collaboration, where proven p
 ![Qwen](https://img.shields.io/badge/Qwen-Qwen3-FF6B6B?style=flat)
 
 ### **Local Models**
-![Gemma 2](https://img.shields.io/badge/Gemma%202-2B-607D8B?style=flat&logoColor=white)
-![Ministral 3B](https://img.shields.io/badge/Ministral-3B%20q4_K_M-673AB7?style=flat&logoColor=white)
-![Llama 3.2](https://img.shields.io/badge/Llama%203.2-3B%20Instruct%20q4_K_M-4E342E?style=flat&logoColor=white)
-![Mistral 7B](https://img.shields.io/badge/Mistral-7B%20Instruct%20q4_K_M-9C27B0?style=flat&logoColor=white)
-![Llama 3](https://img.shields.io/badge/Llama%203-8B%20Instruct%20q4_K_M-795548?style=flat&logoColor=white)
+![Gemma 3](https://img.shields.io/badge/Gemma%203-1B-607D8B?style=flat&logoColor=white)
+![Granite 3.3](https://img.shields.io/badge/Granite%203.3-2B-546E7A?style=flat&logoColor=white)
+![Qwen 3](https://img.shields.io/badge/Qwen%203-1.7B-FF6B6B?style=flat&logoColor=white)
+![DeepSeek R1](https://img.shields.io/badge/DeepSeek%20R1-1.5B-000000?style=flat&logoColor=white)
+![Phi 3](https://img.shields.io/badge/Phi%203-Latest-4A148C?style=flat&logoColor=white)
 
 ### **Development Environment**
 ![Windsurf](https://img.shields.io/badge/Windsurf-IDE-0078D4?style=flat&logoColor=white)
