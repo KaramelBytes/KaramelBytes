@@ -43,6 +43,7 @@ Every repository here is an experiment in human-AI collaboration, where proven p
 ![VS Code](https://img.shields.io/badge/VS%20Code-Roo%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Continue](https://img.shields.io/badge/Continue-IDE%20Agent-8E44AD?style=flat&logoColor=white)
 ![ChatGPT Codex CLI](https://img.shields.io/badge/ChatGPT-Codex%20CLI-00A67E?style=flat&logo=openai&logoColor=white)
+![Claude Code CLI](https://img.shields.io/badge/Claude-Code%20CLI-FF6B35?style=flat&logoColor=white)
 
 ### **Current Tech Stack**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
