@@ -1,88 +1,97 @@
-# Hey there! 👋 I'm a Vibe Coder from Brunei 🇧🇳
+# Hey there! 👋 I'm a Senior Technical Leader from Brunei 🇧🇳
 
-> **20+ years in tech** → **AI-powered development** → **Building the future, one experiment at a time**
+> **20+ years in tech** → **researching AI-native development at scale** → **Building the future, one experiment at a time**
 
----
-
-## 🎯 What's Vibe Coding?
-
-I practice **AI-powered intuitive development** — blending decades of experience with cutting-edge models to create projects that *work beautifully* and *push boundaries*.  
-Every repository here is an experiment in human-AI collaboration, where proven problem-solving meets bleeding-edge innovation.
-
-**My approach:** 💡 Idea → 🤖 AI-assisted build → 🚀 MVP launch → ♻️ Iterate or evolve into something even cooler
+Builder, tinkerer, and occasional heretic when it comes to legacy dev processes. Most at home where systems, teams, and AI meet.
 
 ---
 
-## 🛤️ The Journey
+## 🎯 What’s Here
 
-- 🌐 **Tech veteran** exploring the frontiers of AI-powered development  
-- 🏝️ **Based in Brunei Darussalam**  
-- 🧭 **Philosophy:** Adapt and innovate through hands-on exploration  
-- 🛠️ **Method:** Build progressively complex projects with AI as my development team
+I'm researching AI-orchestrated development methodology through building production-grade platforms. Every repository here is a live lab exploring how technical leadership + AI-assisted development can deliver interesting projects at 10x velocity.
+
+**The vibe:** hands-on technical leadership, staying current by building real things with modern tools.
 
 ---
 
-## Current Vibe Stack 🧰
+## 🚀 Recent Projects
+
+* **DocLoom CLI** — Document intelligence + RAG orchestration + multi-provider LLM abstraction
+* **BrightPath Companion** — Privacy-first AI with consent-gated providers + local-first architecture
+* **Corporate Dynamics Simulation** — Multi-provider AI orchestration + enterprise reliability patterns
+* **Language Tutor** — Cultural context processing + resilient provider architecture for APAC markets
+
+And plenty of side experiments testing architecture, deployment, and workflow patterns for human–AI collaboration at scale.
+
+---
+
+## 🧠 What I’m Into
+
+* **AI Team Orchestration** — Managing specialized models as collaborators, not just tools
+* **Enterprise Reliability** — Circuit breakers, semantic caching, provider abstraction for production
+* **Distributed Systems** — Remote-first architecture and coordination across global teams
+* **Velocity + Quality** — Patterns that enable speed *without* trading off standards
+
+---
+
+## 💡 What I’m Trying
+
+* 📝 **Prompt Engineering** — Refining human–AI communication
+* 🧪 **Model Experimentation** — Evaluating the latest releases in context
+* ⚙️ **Development Workflows** — Optimizing AI-assisted coding practices
+* 🛡️ **AI Workflow Integration** — Embedding models into real-world SDLCs
+
+---
+
+## 🛠️ Tech Stack
 
 ### **AI Models & Tools**
-![ChatGPT](https://img.shields.io/badge/ChatGPT-GPT%E2%80%915%20%7C%20GPT%E2%80%915%20Thinking-00A67E?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-Opus%204.1%20%7C%20Sonnet%204-FF6B35?style=flat)
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-GPT%E2%80%935-00A67E?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Opus%204.1%20%7C%20Sonnet%204.5-FF6B35?style=flat&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-2.5%20Pro%20%7C%202.5%20Flash-4285F4?style=flat&logo=google&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-R1%E2%80%930528%20%7C%20V3-000000?style=flat)
-![Qwen](https://img.shields.io/badge/Qwen-Qwen3-FF6B6B?style=flat)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-R1%20%7C%20V3.1-000000?style=flat&logo=deepseek&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-Qwen3-FF6B6B?style=flat&logo=alibaba&logoColor=white)
 
-### **Local Models**
-![Gemma 3](https://img.shields.io/badge/Gemma%203-1B-607D8B?style=flat&logoColor=white)
-![Granite 3.3](https://img.shields.io/badge/Granite%203.3-2B-546E7A?style=flat&logoColor=white)
-![Qwen 3](https://img.shields.io/badge/Qwen%203-1.7B-FF6B6B?style=flat&logoColor=white)
-![DeepSeek R1](https://img.shields.io/badge/DeepSeek%20R1-1.5B-000000?style=flat&logoColor=white)
-![Phi 3](https://img.shields.io/badge/Phi%203-Latest-4A148C?style=flat&logoColor=white)
+### **Local Model Experiments**
 
-### **Development Environment**
-![Windsurf](https://img.shields.io/badge/Windsurf-IDE-0078D4?style=flat&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-Roo%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Continue](https://img.shields.io/badge/Continue-IDE%20Agent-8E44AD?style=flat&logoColor=white)
-![ChatGPT Codex CLI](https://img.shields.io/badge/ChatGPT-Codex%20CLI-00A67E?style=flat&logo=openai&logoColor=white)
-![Claude Code CLI](https://img.shields.io/badge/Claude-Code%20CLI-FF6B35?style=flat&logoColor=white)
+![Gemma 3](https://img.shields.io/badge/Gemma%203-Latest-607D8B?style=flat&logo=google&logoColor=white)
+![Granite 3.3](https://img.shields.io/badge/Granite%203.3-Latest-546E7A?style=flat&logo=ibm&logoColor=white)
 
-### **Current Tech Stack**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=flat&logo=discord&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+### **Dev Environment**
 
-### **Deployment & Hosting**
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-IDE-0078D4?style=flat\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-Roo%20Code-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
+![ChatGPT Codex CLI](https://img.shields.io/badge/ChatGPT-Codex%20CLI-00A67E?style=flat\&logo=openai\&logoColor=white)
+![Claude Code CLI](https://img.shields.io/badge/Claude-Code%20CLI-FF6B35?style=flat\&logoColor=white)
+
+### **Core Stack**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat\&logo=go\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=nextdotjs\&logoColor=white)
+
+### **Deployment**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat\&logo=vercel\&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat\&logo=cloudflare\&logoColor=white)
+
+Note: these tools and models evolve fast; this list may not exactly match what I’m using right now.
 
 ---
 
-## 🧠 My AI Interests
+## 🤝 Let’s Connect
 
-- 📝 **Prompt Engineering** – Perfecting human-AI communication  
-- 🧪 **Model Experimentation** – Testing and evaluating the latest releases  
-- ⚙️ **Development Workflows** – Optimizing AI-assisted coding practices  
-- 🛡️ **Future-Proofing** – Building skills for the AI-native development era  
+If you’re exploring how AI changes the way teams build, ship, or scale — I’d love to trade notes.
 
----
-
-## 🤝 Let's Connect!
-
-I'm passionate about:  
-- 🔬 **Experimenting** with new AI models and development patterns  
-- 🚀 **Pushing** the boundaries of AI-assisted development  
-- 🤝 **Collaborating** with fellow builders and AI enthusiasts  
-- 📚 **Sharing** discoveries and learning from the community  
-
-**Open to:** Collaborations, interesting projects, consulting opportunities, and conversations about where AI development is heading!
+**Find me:**
+- 🌐 **Website:** [take a look](https://henning.work)
+- 📧 **Email:** [drop a line](mailto:jeremiah@henning.work)
+- 💼 **LinkedIn:** [connect here](https://linkedin.com/in/henningjeremiah)
 
 ---
 
-*"Make it so."* – Picard ✨
+*"Make it so." — Picard* ✨
+
