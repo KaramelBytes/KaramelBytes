@@ -1,8 +1,8 @@
-# Hey there! 👋 I'm a Senior Technical Leader from Brunei 🇧🇳
+# Hey there! 👋 I'm a Technology Consultant & CTO
 
-> **20+ years in tech** → **researching AI-native development at scale** → **Building the future, one experiment at a time**
+Technology consultant at **Orion Leap** specializing in crisis management, digital transformation, and strategic cost optimization. Also researching AI-native development methodologies through **Faultshift**.
 
-Builder, tinkerer, and occasional heretic when it comes to legacy dev processes. Most at home where systems, teams, and AI meet.
+Builder, tinkerer, and occasional heretic when it comes to legacy dev processes. Most at home where systems, teams, and AI meet—whether that's helping clients navigate technical challenges or exploring cutting-edge AI orchestration patterns.
 
 ---
 
